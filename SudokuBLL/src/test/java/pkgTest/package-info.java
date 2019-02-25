@@ -5,4 +5,4 @@
  * @author amdan
  *
  */
-package pkgGame;
+package pkgTest;
